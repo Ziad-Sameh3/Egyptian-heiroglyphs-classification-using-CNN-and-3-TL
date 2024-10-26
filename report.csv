@@ -1,0 +1,5 @@
+,Train Loss,Validation Loss,Test Loss,Train Accuracy,Validation Accuracy,Test Accuracy,Train Precision,Validation Precision,Test Precision,Train Recall,Validation Recall,Test Recall
+Normal CNN,0.04,0.33,0.27,0.99,0.92,0.93,0.99,0.92,0.94,0.99,0.91,0.93
+VGG19,0.04,0.06,0.06,0.98,0.97,0.98,0.99,0.97,0.98,0.98,0.97,0.98
+EfficientNet,0.05,0.06,0.05,0.98,0.97,0.97,0.98,0.97,0.97,0.98,0.97,0.97
+densenet_model,0.21,0.32,0.32,0.94,0.91,0.9,0.97,0.94,0.94,0.91,0.87,0.86
