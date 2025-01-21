@@ -63,16 +63,6 @@ The trained CNN achieves accurate classification across 95 hieroglyph classes. T
 - Training and validation accuracy plots.
 - Sample predictions with images.
 
-## Project Structure
-
-```
-/
-|-- egyptian-heiroglyphs-classify-cnn-tl.ipynb  # Main Jupyter Notebook
-|-- train/                                      # Training images
-|-- valid/                                      # Validation images
-|-- test/                                       # Test images
-|-- requirements.txt                            # Dependencies
-```
 
 ## Future Improvements
 
